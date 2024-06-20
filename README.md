@@ -2,9 +2,9 @@
 
 
 
+<img width="431" alt="coverPage" src="https://github.com/alighasemi889/Javascript_Question/assets/58810370/80e2cfa0-b14b-4a13-8795-f0ee34d4eae9">
 
 
- ![js](https://github.com/alighasemi889/Javascript_Question/assets/58810370/9cde1bbc-6c00-42ad-8283-e39d57d13ecf)
 
 
 
